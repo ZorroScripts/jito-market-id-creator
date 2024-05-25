@@ -34,5 +34,5 @@ node main.js
 If everything is configured correctly, this command will create the market ID for you.
 
 ## 📞 Contact
-- **Telegram:** [@support_telegram](https://t.me/ZorroScripts)
+- **Telegram:** [@support_telegram](https://t.me/zorro0x)
 
